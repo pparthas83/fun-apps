@@ -20,6 +20,11 @@ const server = http.createServer((req, res) => {
   let safePath = path.normalize(reqPath).replace(/^(\.\.[\/\\])+/, '');
   let filePath = path.join(PUBLIC_DIR, safePath === '/' ? 'index.html' : safePath);
 
+  // Favicon root request fallback
+  if (reqPath === '/favicon.ico' || reqPath === '/favicon.svg') {
+    filePath = path.join(PUBLIC_DIR, 'assets', 'favicon.svg');
+  }
+
   if (!filePath.startsWith(PUBLIC_DIR)) {
     res.writeHead(403, { 'Content-Type': 'text/plain' });
     res.end('403 Forbidden');
