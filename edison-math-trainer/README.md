@@ -2,9 +2,6 @@
 
 An ultra-lightweight, zero-cost, interactive web application tailored for Edison Township Public Schools 7th Grade Accelerated Algebra 1 students practicing **Section 2.5: Absolute Value Equations**.
 
-🌐 **Live Cloud Run URL**: [https://edison-math-trainer-lgemkmicia-ue.a.run.app](https://edison-math-trainer-lgemkmicia-ue.a.run.app)  
-*(Alternative URL: [https://edison-math-trainer-832497031659.us-east1.run.app](https://edison-math-trainer-832497031659.us-east1.run.app))*
-
 ---
 
 ## Features
@@ -54,11 +51,11 @@ Open [http://localhost:8080](http://localhost:8080) in your browser.
 ## Automated Test Suites
 
 ```bash
-# 1. Run Mathematical Integrity & Formula Validator (1,300+ assertions)
-node test-math-data.js
+# 1. Run Mathematical Integrity & Schema Unit Tests (1,300+ assertions)
+npm test
 
 # 2. Run Headless Chrome DevTools Protocol E2E Browser Test Suite
-node test-browser-e2e.js
+npm run test:e2e
 ```
 
 ---

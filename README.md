@@ -24,3 +24,4 @@ All projects within this repository strictly follow the Antigravity Global Archi
 - **Modular Directory Structure**: Separation of HTML, stylesheets, client JS modules, and server handlers.
 - **Pure Functions**: Mathematical and core business logic decoupled from DOM manipulation.
 - **Conventional Commits**: Commit messages follow standard Conventional Commits 1.0.0.
+- **Confidential Deployment URLs**: Live Cloud Run URLs and deployment endpoints are strictly excluded from public repository documentation.
