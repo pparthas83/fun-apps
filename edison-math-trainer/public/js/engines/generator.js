@@ -792,3 +792,6 @@ const ProblemGenerator = {
 if (typeof module !== 'undefined' && module.exports) {
   module.exports = { ProblemGenerator };
 }
+
+export { ProblemGenerator };
+export default ProblemGenerator;

@@ -13,16 +13,26 @@ const MIME_TYPES = {
   '.svg': 'image/svg+xml'
 };
 
+const PUBLIC_DIR = path.join(__dirname, 'public');
+
 const server = http.createServer((req, res) => {
   let reqPath = req.url.split('?')[0];
-  let filePath = path.join(__dirname, reqPath === '/' ? 'index.html' : reqPath);
+  let safePath = path.normalize(reqPath).replace(/^(\.\.[\/\\])+/, '');
+  let filePath = path.join(PUBLIC_DIR, safePath === '/' ? 'index.html' : safePath);
+
+  if (!filePath.startsWith(PUBLIC_DIR)) {
+    res.writeHead(403, { 'Content-Type': 'text/plain' });
+    res.end('403 Forbidden');
+    return;
+  }
+
   const ext = path.extname(filePath).toLowerCase();
   const contentType = MIME_TYPES[ext] || 'application/octet-stream';
 
   fs.readFile(filePath, (err, content) => {
     if (err) {
       if (err.code === 'ENOENT') {
-        fs.readFile(path.join(__dirname, 'index.html'), (err2, indexContent) => {
+        fs.readFile(path.join(PUBLIC_DIR, 'index.html'), (err2, indexContent) => {
           if (err2) {
             res.writeHead(404, { 'Content-Type': 'text/plain' });
             res.end('404 Not Found');

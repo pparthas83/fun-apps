@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563eb" />
+      <stop offset="100%" stop-color="#4338ca" />
+    </linearGradient>
+    <linearGradient id="sparkGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fef08a" />
+      <stop offset="100%" stop-color="#f59e0b" />
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="2" stdDeviation="2" flood-opacity="0.3" />
+    </filter>
+  </defs>
+
+  <!-- Base Rounded Card -->
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="url(#bgGrad)" stroke="#60a5fa" stroke-width="1.5" filter="url(#shadow)" />
+
+  <!-- Left Absolute Value Bar -->
+  <line x1="16" y1="17" x2="16" y2="47" stroke="#ffffff" stroke-width="4.5" stroke-linecap="round" />
+
+  <!-- Center 'x' in Crisp Math Geometry -->
+  <path d="M24 22 L36 42 M36 22 L24 42" stroke="#ffffff" stroke-width="4" stroke-linecap="round" />
+
+  <!-- Right Absolute Value Bar -->
+  <line x1="44" y1="17" x2="44" y2="47" stroke="#ffffff" stroke-width="4.5" stroke-linecap="round" />
+
+  <!-- Edison Spark / Lightning Accent in Top-Right -->
+  <polygon points="48,6 56,6 51,15 57,15 47,26 49,17 44,17" fill="url(#sparkGrad)" stroke="#b45309" stroke-width="0.75" />
+</svg>

@@ -5,6 +5,8 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "test": "node test-math-data.js"
+    "test": "node tests/unit/math-data.test.js",
+    "test:unit": "node tests/unit/math-data.test.js",
+    "test:e2e": "node tests/e2e/browser.test.js"
   }
 }

@@ -1,6 +1,14 @@
-// Test Suite 1: Mathematical Accuracy, Schema Integrity & Algorithmic Generators
-const { QUESTION_BANK } = require('./questions.js');
-const { ProblemGenerator } = require('./generator.js');
+// Unit Test Suite: Mathematical Accuracy, Schema Integrity, Algorithmic Generators & Evaluator Pure Logic
+const { QUESTION_BANK } = require('../../public/js/data/questions.js');
+const { ProblemGenerator } = require('../../public/js/engines/generator.js');
+const {
+  shuffleArray,
+  buildNumberLineSVG,
+  parseAbsoluteValueEquation,
+  parseNumberOrFraction,
+  parseAnswers,
+  evaluateStudentAnswer
+} = require('../../public/js/engines/evaluator.js');
 
 let passedTests = 0;
 let failedTests = 0;
@@ -66,7 +74,6 @@ const q10 = QUESTION_BANK.find(q => q.id === 'L2-04');
 assert(q10.options[q10.correctIndex].includes('emptyset') || q10.options[q10.correctIndex].includes('No Solution'), "L2-04 (7-|3k+2|=12) correct answer is No Solution");
 
 // Test Extraneous Curveball: |3x + 2| = x - 4 => candidate roots are -3 and 0.5
-// Check that both candidate roots produce negative right-hand sides
 const x_cand1 = -3;
 const rhs1 = x_cand1 - 4; // -7
 const x_cand2 = 0.5;
@@ -158,6 +165,44 @@ for (let i = 0; i < 25; i++) {
   assert(typeof gr.equation === 'string', `Gen Random [iteration ${i+1}] has equation`);
   assert(typeof gr.solutionSet === 'string', `Gen Random [iteration ${i+1}] has solutionSet`);
 }
+
+console.log("\n=== 5. TESTING EVALUATOR PURE ENGINE ===");
+
+// Test parseNumberOrFraction
+assert(parseNumberOrFraction("5") === 5, "parseNumberOrFraction parses integer 5");
+assert(parseNumberOrFraction("-3.5") === -3.5, "parseNumberOrFraction parses negative float -3.5");
+assert(Math.abs(parseNumberOrFraction("3/4") - 0.75) < 1e-9, "parseNumberOrFraction parses fraction 3/4");
+assert(parseNumberOrFraction("invalid") === null, "parseNumberOrFraction returns null for invalid string");
+
+// Test parseAnswers
+assert(parseAnswers("No solution").isNoSolution === true, "parseAnswers identifies 'No solution'");
+assert(parseAnswers("∅").isNoSolution === true, "parseAnswers identifies '∅'");
+assert(parseAnswers("{}").isNoSolution === true, "parseAnswers identifies '{}'");
+const pAns = parseAnswers("{-6, 2}");
+assert(pAns.numbers.length === 2 && pAns.numbers[0] === -6 && pAns.numbers[1] === 2, "parseAnswers parses '{-6, 2}'");
+
+// Test parseAbsoluteValueEquation
+const pEq1 = parseAbsoluteValueEquation("|x + 3| = 2");
+assert(pEq1 !== null && pEq1.variable === 'x' && pEq1.midpoint === -3 && pEq1.dist === 2, "parseAbsoluteValueEquation parsed '|x + 3| = 2'");
+const pEq2 = parseAbsoluteValueEquation("|x - 5| = 7");
+assert(pEq2 !== null && pEq2.midpoint === 5 && pEq2.dist === 7, "parseAbsoluteValueEquation parsed '|x - 5| = 7'");
+
+// Test evaluateStudentAnswer
+const eval1 = evaluateStudentAnswer("{-6, 2}", "{-6, 2}", [-6, 2], { level: 1 });
+assert(eval1.isCorrect === true, "evaluateStudentAnswer marks {-6, 2} correct");
+
+const eval2 = evaluateStudentAnswer("-6, 2", "{-6, 2}", [-6, 2], { level: 1 });
+assert(eval2.isCorrect === true && eval2.formattingTip !== null, "evaluateStudentAnswer provides formatting tip for missing braces");
+
+const eval3 = evaluateStudentAnswer("No solution", "∅", [], { level: 2 });
+assert(eval3.isCorrect === true, "evaluateStudentAnswer accepts 'No solution' for empty set");
+
+const evalGraph = evaluateStudentAnswer("|x + 3| = 2", null, [-5, -1], { type: 'write_equation', graphPoints: [-5, -1], midpoint: -3, distance: 2 });
+assert(evalGraph.isCorrect === true, "evaluateStudentAnswer verifies graph equation correctly");
+
+// Test buildNumberLineSVG
+const svg = buildNumberLineSVG([-6, 2]);
+assert(svg.includes('<svg') && svg.includes('circle'), "buildNumberLineSVG outputs valid SVG markup");
 
 console.log(`\n========================================`);
 console.log(`RESULTS: ${passedTests} PASSED, ${failedTests} FAILED`);

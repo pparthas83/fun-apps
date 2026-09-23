@@ -1675,3 +1675,6 @@ const QUESTION_BANK = [
 if (typeof module !== 'undefined' && module.exports) {
   module.exports = { QUESTION_BANK };
 }
+
+export { QUESTION_BANK };
+export default QUESTION_BANK;
