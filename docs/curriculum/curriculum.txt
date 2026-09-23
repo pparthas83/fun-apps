@@ -1,0 +1,3000 @@
+PUBLIC SCHOOLS OF EDISON TOWNSHIP
+OFFICE OF CURRICULUM AND INSTRUCTION
+
+Algebra 1
+
+Length of Course:
+
+Term
+
+Elective/Required: Required
+Schools:
+
+Middle Schools
+
+Eligibility:
+
+Grade 7- 8
+
+Credit Value:
+
+N/A
+
+Date Approved:
+
+August 23, 2022
+
+Algebra I
+
+2
+
+TABLE OF CONTENTS
+Title
+
+Page
+
+Introduction
+
+3
+
+Scope and Sequence
+
+5
+
+Unit 1: Solving Equations and Inequalities
+
+7
+
+Unit 2: Functions and Relations
+
+10
+
+Unit 3: Linear Functions
+
+12
+
+Unit 4: Linear Equations
+
+15
+
+Unit 5: Systems of Equations and Inequalities
+
+18
+
+Unit 6: Exponential Functions and Properties
+
+21
+
+Unit 7: Quadratic Expressions and Equations
+
+26
+
+Unit 8: Quadratic Functions
+
+29
+
+Unit 9: Square Root Functions and Radical Properties
+
+34
+
+Unit 10: Rational Functions
+
+37
+
+Unit 11: Special Functions, Trigonometry, and Probability
+
+40
+
+Modifications will be made to accommodate IEP mandates for classified students
+
+Algebra I
+
+3
+
+INTRODUCTION
+The New Jersey Student Learning Standards (NJSLS) for Mathematics are intended to provide
+students with a solid foundation in expressions, equations and inequalities, and connections to
+modeling and functions. This curriculum guide is standards based which reflects the NJ Student
+Learning Standards for Mathematics, the Mathematical Practices that are expected to be used in
+teaching mathematics K-12 are as follows and infused throughout the guide:
+●
+●
+●
+●
+●
+●
+●
+●
+
+Make sense of problems and persevere in solving them.
+Use appropriate tools strategically.
+Reason abstractly and quantitatively.
+Construct viable arguments and critique the reasoning of others.
+Model with mathematics.
+Attend to precision.
+Look for and make use of structure.
+Look for and express regularity in repeated reasoning.
+
+New Jersey Student Learning Standards for Mathematics Algebra 1 Overview:
+Seeing Structure in Expressions
+• Interpret the structure of expressions
+• Write expressions in equivalent forms to solve problems
+
+Arithmetic with Polynomials and Rational Functions
+• Perform arithmetic operations on polynomials
+• Understand the relationship between zeros and factors of polynomials
+• Use polynomial identities to solve problems
+• Rewrite rational expressions
+
+Creating Equations
+• Create equations that describe numbers or relationships
+Reasoning with Equations and Inequalities
+• Understand solving equations as a process of reasoning and explain the reasoning
+• Solve equations and inequalities in one variable
+• Solve systems of equations
+• Represent and solve equations and inequalities graphically
+
+Interpreting Functions
+• Understand the concept of a function and use function notation
+• Interpret functions that arise in applications in terms of the context
+• Analyze functions using different representations
+
+Algebra I
+
+4
+
+Building Functions
+• Build a function that models a relationship between two quantities
+• Build new functions from existing functions
+
+Linear, Quadratic, and Exponential Models
+• Construct and compare linear and exponential models and solve problems
+• Interpret expressions for functions in terms of the situation they model
+
+The purpose of the revision was to further integrate the practice standards as well as
+incorporate technology in a meaningful way to enhance instruction and learning.
+
+Learning mathematics with understanding is essential to enable students to problem solve. Students
+learn mathematics by doing not just by listening and memorizing. When mathematical facts
+are connected, taught in a contextual setting, applied to real world applications and infused with
+technology, knowledge is more likely retained.
+
+Algebra I
+
+5
+
+SCOPE & SEQUENCE: Algebra 1
+MARKING PERIOD 1
+
+MARKING PERIOD 2
+
+Unit 1: Solving Equations and Inequalities
+2.1: Writing Equations
+2.2: One Step Equations
+2.3: Multistep Equations
+2.4: Equations with Variables on Each Side
+2.5: Solving Absolute Value Equations
+2.8: Literal Equations and Dimensional Analysis
+5.3: Solving Multi-Step Inequalities
+5.4: Solving Compound Inequalities
+5.5: Inequalities Involving Absolute Value
+
+Unit 4: Linear Equations
+4.1: Graphing Equations in Slope-Intercept Form
+4.2: Writing Equations in Slope-Intercept Form
+4.3: Writing Equations in Point-Slope Form
+4.4: Parallel and Perpendicular Lines
+
+Unit 2: Functions and Relations
+1.6: Relations
+1.7: Functions
+1.8: Interpreting Graphs of Functions
+
+Unit 3: Linear Functions
+3.1: Graphing Linear Equations
+3.2: Solving Linear Equations by Graphing
+3.3: Rate of Change and Slope
+3.4: Direct Variation
+3.5: Arithmetic Sequences as Linear Functions
+3.6: Proportional and Nonproportional Relationships
+
+Unit 5: Systems of Equations and Systems of Inequalities
+6.1: Graphing Systems of Equations
+6.2: Substitution
+6.3-6.4: Elimination
+6.5: Applying Systems of Equations
+5.6: Graphing Inequalities in Two Variables
+6.6: Systems of Inequalities
+
+Algebra I
+
+6
+MARKING PERIOD 3
+
+Unit 6: Exponential Functions and Properties
+7.1: Multiplication Property of Exponents
+7.2: Division Properties of Exponents
+7.3: Rational Exponents
+7.5: Exponential Functions
+7.6: Growth and Decay
+Unit 7: Quadratic Expressions and Equations
+8.1: Adding and Subtracting Polynomials
+8.2: Multiplying a Polynomial by a Monomials
+8.3: Multiplying Polynomials
+8.4: Special Products
+8.5: Distributive Property
+8.6-8.9: Solving by Factoring
+Unit 8: Quadratic Functions
+9.1: Graphing Quadratics
+9.2: Solving Quadratics by Graphing
+9.3: Transformations of Quadratics
+9.4: Completing The Square
+9.5: Quadratic Formula
+
+MARKING PERIOD 4
+Unit 9: Square Root Functions and Radical Properties
+10.1: Square Root Functions
+10.2: Simplifying Radical Expressions
+10.3: Operations with Radical Expressions
+10.4: Radical Equations
+Unit 10: Rational Functions
+11.1: Inverse Variation
+11.2: Rational Functions
+11.3: Simplifying Radical Expressions
+11.4: Multiplying and Dividing Rational Expressions
+11.6: Adding and Subtracting Rational Expressions
+11.7: Mixed Expressions and Complex Fractions
+(Time Permitting) Unit 11: Special Functions, Trigonometry, and
+Probability
+4.5: Scatter Plots and Lines of Fit
+9.7: Special Functions
+10.5: Pythagorean Theorem
+10.6: Trigonometric Ratios
+12.6: Permutations and Combinations
+12.7: Probability of Compound Events
+
+Please note: Instructors will change their pacing and timing as needed to accommodate class periods available.
+
+Algebra I
+
+7
+
+Unit 1: Solving Equations and Inequalities
+Essential Questions
+●
+●
+●
+●
+●
+●
+
+Enduring Understandings
+
+Why is it important to maintain equality as you solve an equation?
+Are equations that appear to be different equivalent?
+How do properties of solving linear equations apply to rearranging
+literal equations?
+How do you solve compound equations and inequalities algebraically
+and graphically?
+How do you solve absolute value equations and inequalities
+algebraically and graphically?
+How can you represent and solve a compound inequality?
+
+●
+●
+●
+●
+●
+
+●
+●
+
+●
+
+Linear equations are solved by using inverse operations, the
+distributive property, and isolating a variable.
+The properties of equality or inequality can be used to justify algebraic
+reasoning and the resulting solutions.
+Linear equations can model ratios, find rates to compare given
+quantities, and make predictions based on the situations.
+Equations can be used to find the solution of given real - world
+problems.
+There are relationships within equations or inequalities that result in
+special solution situations, including no solution or all real-number
+solutions.
+The properties of equality and inverse operations can be used to
+transform literal equations into forms most helpful for a given situation.
+Compound and absolute inequalities can be rewritten and understood
+through the intersection or union of the simple inequalities that lie
+within the compound inequality.
+There are cases where there are no solutions or infinitely many
+solutions with possible restrictions.
+
+Core Content
+Objectives
+●
+
+Create equations and
+inequalities to represent
+real-world situations.
+
+●
+
+Apply properties of equality to
+solve equations and justify
+the solution process.
+
+Alignment to NJSLS
+A.CED.A.1: Create equations and
+inequalities in one variable and use
+them to solve problems. Include
+equations arising from linear and
+quadratic functions, and simple
+rational and exponential functions.
+A.CED.A.3: Represent constraints by
+
+Instructional Actions
+Recommended
+Activities/Strategies
+2.1: Writing Equations
+Quizizz - Translating Equations
+Quia - Translating Equations
+2.2: One Step Equations
+IXL - One-Step Equations
+
+Assessment Check Points
+Students will be formatively assessed
+through:
+● Teacher Observations
+● Do Nows
+● Exit Slips
+● Classwork
+● Extended Learning Activities
+● Stations
+● Educational Games
+
+Algebra I
+●
+
+●
+
+Apply properties of inequality
+to solve inequalities and
+graph their solutions.
+Solve literal equations for a
+given variable.
+
+●
+
+Transform literal equations to
+solve real-world problems.
+
+●
+
+Solve absolute value
+equations.
+
+●
+
+Solve compound inequalities
+and absolute value
+inequalities.
+
+●
+
+Identify equations and
+inequalities that have no
+solution or infinitely many
+solutions, including absolute
+value equations and
+inequalities.
+
+8
+equations or inequalities, and by
+systems of equations and/or
+inequalities, and interpret solutions as
+viable or nonviable options in a
+modeling context.
+A.REI.A.1: Explain each step in
+solving a simple equation as following
+from the equality of numbers asserted
+at the previous step, starting from the
+assumption that the original equation
+has a solution. Construct a viable
+argument to justify a solution method.
+A.REI.B.3: Solve linear equations and
+inequalities in one variable, including
+equations with coefficients
+represented
+by letters.
+A.CED.A.4: Rearrange formulas to
+highlight a quantity of interest, using
+the same reasoning as in solving
+equations. For example,rearrange
+Ohm’s law V=IR to highlight
+resistance, R.
+
+Math Games - One-Step Equations
+2.3: Multistep Equations
+Math Games - Multi-Step Equations
+2.4: Equations with Variables on Each
+Side
+Khan Academy - Variables on Both
+Sides
+Word Problems - Variables on Both
+Sides
+2.5: Solving Absolute Value Equations
+Khan Academy - Absolute Value
+Equations
+IXL - Absolute Value Equations
+2.8: Literal Equations and
+Dimensional Analysis
+Khan Academy - Literal Equations
+IXL - Literal Equations
+5.3: Solving Multi-Step Inequalities
+
+5.4: Solving Compound Inequalities
+Khan Academy - Compound
+Inequalities
+Algebra Lab - Compound Inequalities
+5.5: Inequalities Involving Absolute
+Value
+IXL - Absolute Value Inequalities
+
+Summative assessments include:
+● Minor Assessments
+● Major Assessments
+● Performance Assessments
+
+Algebra I
+
+9
+
+Resources:
+
+Instructional Adjustments:
+
+Essential Materials, Supplemental Materials, Links to Best Practices
+
+Modifications, Student Difficulties, Possible Misunderstandings
+
+Algebra 1 Textbook Login
+http://www.socrative.com/
+www.kahoot.it
+www.shodor.org
+www.Insidemathematics.org
+www.xyzsolve.com
+www.ck12.org
+www.mathjong.com
+Pear Deck
+Socrative
+Edpuzzle
+Quizizz
+Nearpod
+
+Modifications/Student difficulties/Common errors
+
+Resources from textbook:
+● Lesson Presentations
+● Lesson Videos
+● Explore Activities
+● Online Practices
+● Exit Cards
+● Tiered Practices
+● Performance Tasks
+● Unit Reviews
+● Assessments
+
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+
+Emphasize note taking strategies
+Use guided notes when necessary
+Revisit and study notebook
+Create vocabulary notecards
+Use tools/manipulatives/models
+Reword application problems
+Use handouts/graphic organizers
+Review peer work and provide feedback
+Complete error analysis process.
+Create a study guide for intervention
+Build a glossary notebook
+
+Algebra I
+
+10
+
+Unit 2: Functions and Relations
+Essential Questions
+●
+●
+●
+
+Enduring Understandings
+
+How can you represent and describe functions?
+How can functions describe real- world situations?
+What does the domain and range of function represent? How is that
+applied to real world scenarios?
+
+●
+●
+●
+●
+
+Functions are a special type of relation where each value in the
+domain is paired with exactly one value in the range.
+The vertical line test and mapping diagrams help to determine whether
+a relation is a function.
+Some functions can be graphed or represented by equations
+Relations and functions can be represented by a table of values,
+mappings, and graphs to determine the following:
+o Domain and range
+o Independent and Dependent Variables
+o Continuous and discrete functions
+o Function or relation?
+
+Core Content
+Objectives
+●
+
+Represent relations in a
+variety of methods.
+
+●
+
+Interpret graphs of relations.
+
+●
+
+Determine whether a relation
+is a function.
+
+●
+
+Identify the domain and range
+of functions.
+Use function notation to
+evaluate functions.
+
+●
+
+●
+
+Use function notation to
+interpret key features such as
+
+Alignment to NJSLS
+F-IF.A.1: 1. Understand that a function
+from one set (called the domain) to
+another set (called the range) assigns
+to each element of the domain exactly
+one element of the range. If f is a
+function and x is an element of its
+domain, then f(x) denotes the output
+of f corresponding to the input x. The
+graph of f is the graph of the equation
+y = f(x).
+F-IF.A.2: Use function notation,
+evaluate functions for inputs in their
+domains, and interpret statements
+that use function notation in terms of a
+
+Instructional Actions
+Recommended
+Activities/Strategies
+1.6: Relations
+IXL - Domain and Range
+Khan Academy - Domain and Range
+1.7: Functions
+IXL - Functions
+Quizizz - Functions
+1.8: Interpreting Graphs of Functions
+Khan Academy - Graphs of Functions
+
+Assessment Check Points
+Students will be formatively assessed
+through:
+● Teacher Observations
+● Do Nows
+● Exit Slips
+● Classwork
+● Extended Learning Activities
+● Stations
+● Educational Games
+Summative assessments include:
+● Minor Assessments
+● Major Assessments
+● Performance Assessments
+
+Algebra I
+identifying the value of f(3)
+given the table of a function
+and determining x given
+f(x)=5.
+●
+
+Interpret intercepts and
+symmetry of graphs of
+functions.
+
+●
+
+Interpret extrema and end
+behavior of graphs of
+functions.
+
+11
+context.
+
+Resources:
+
+Instructional Adjustments:
+
+Essential Materials, Supplemental Materials, Links to Best Practices
+
+Modifications, Student Difficulties, Possible Misunderstandings
+
+Algebra 1 Textbook Login
+http://www.socrative.com/
+www.kahoot.it
+www.shodor.org
+www.Insidemathematics.org
+www.xyzsolve.com
+www.ck12.org
+www.mathjong.com
+Pear Deck
+Socrative
+Edpuzzle
+Quizizz
+Nearpod
+
+Modifications/Student difficulties/Common errors
+
+Resources from textbook:
+● Lesson Presentations
+● Lesson Videos
+● Explore Activities
+● Online Practices
+● Exit Cards
+● Tiered Practices
+● Performance Tasks
+● Unit Reviews
+● Assessments
+
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+
+Emphasize note taking strategies
+Use guided notes when necessary
+Revisit and study notebook
+Create vocabulary notecards
+Use tools/manipulatives/models
+Reword application problems
+Use handouts/graphic organizers
+Review peer work and provide feedback
+Complete error analysis process.
+Create a study guide for intervention
+Build a glossary notebook
+
+Algebra I
+
+12
+
+Unit 3: Linear Functions
+Essential Questions
+●
+●
+●
+●
+●
+
+Enduring Understandings
+
+How can mathematics help us describe and interpret relationships
+observed in data and real-world phenomena?
+Why is it helpful to have different ways to graph linear functions? What
+can a linear graph tells you about the relationship that it represents?
+What are arithmetic sequences and how are they related to linear
+functions?
+Given limited information, how can you determine the equation of a
+line?
+What are geometric sequences, and how are they related to
+exponential functions?
+
+●
+●
+
+●
+●
+●
+
+Functions and their varied representations are used to describe,
+analyze, and interpret real-world and mathematical relationships.
+Arithmetic sequences are linear functions which can be represented
+recursively, explicitly using function notation, and in slope-intercept
+form.
+The numbers in an arithmetic sequence follow a pattern of adding a
+fixed number from one term to the next.
+The domain of an arithmetic sequence is a subset of the integers.
+Linear equations represent relationships that involve a constant rate
+of change.
+
+Core Content
+Objectives
+●
+
+Analyze the key features of
+linear graphs.
+
+●
+
+Identify linear equations,
+intercepts, and zeros.
+
+●
+
+Graph linear equations.
+
+●
+
+Use rate of change to solve
+problems.
+
+●
+
+Find the slope of a line.
+
+●
+
+Write and graph direct
+variation.
+
+●
+
+Recognize arithmetic
+sequences.
+
+Alignment to NJSLS
+
+Instructional Actions
+Recommended
+Activities/Strategies
+
+F.IF.4 For a function that models a
+relationship between two quantities,
+interpret key features of graphs and
+tables in terms of the quantities, and
+sketch graphs showing key features
+given a verbal description of the
+relationship.
+
+3.1: Graphing Linear Equations and
+3.2: Solving Linear Equations by
+Graphing
+Khan Academy - Standard Form
+
+F.IF.7a Graph linear and quadratic
+functions and show intercepts,
+maxima, and minima.
+
+3.3: Rate of Change and Slope
+IXL - Rate of Change with Tables
+
+Khan Academy - Intercepts
+
+IXL - Constant Rate of Change
+A.REI.10 Understand that the graph
+of an equation in two variables is the
+set of all its solutions plotted in the
+coordinate plane, often forming a
+
+Khan Academy - Linear Equations &
+Graphs
+
+Assessment Check Points
+Students will be formatively assessed
+through:
+● Teacher Observations
+● Do Nows
+● Exit Slips
+● Classwork
+● Extended Learning Activities
+● Stations
+● Educational Games
+Summative assessments include:
+● Minor Assessments
+● Major Assessments
+● Performance Assessments
+
+Algebra I
+
+13
+curve (which could be a line).
+
+●
+
+Relate arithmetic sequences
+to linear functions.
+
+●
+
+Write an equation for a
+proportional relationship.
+
+●
+
+Write an equation for a non
+proportional relationship.
+
+F-IF.A.1: Understand that a function
+from one set (called the domain) to
+another set (called the range) assigns
+to each element of the domain exactly
+one element of the range. If f is a
+function and x is an element of its
+domain, then )f(x) denotes the output
+of f corresponding to the input x. The
+graph of f is the graph of the equation
+y=f(x).
+F-IF.A.2: Understand the concept of a
+function and use function notation.
+F-IF.C.9: Compare properties of two
+functions each represented in a
+different way (algebraically,
+graphically, numerically in tables, or
+by verbal descriptions). For example,
+given a graph of one quadratic
+function and an algebraic expression
+for another, say which has the larger
+maximum.
+F-LE.B.5: Interpret the parameters of
+a linear or exponential function in
+terms of a context.
+
+Math Games - Find the Slope of a
+Graph
+3.4: Direct Variation
+IXL - Direct Variation
+Khan Academy - Direct Variation
+3.5: Arithmetic Sequences as Linear
+Functions
+Quizizz - Arithmetic Sequences
+3.6: Proportional and Nonproportional
+Relationships
+IXL - Identify Proportional
+Relationships From Graphs and
+Equations
+
+Algebra I
+
+14
+
+Resources:
+
+Instructional Adjustments:
+
+Essential Materials, Supplemental Materials, Links to Best Practices
+
+Modifications, Student Difficulties, Possible Misunderstandings
+
+Algebra 1 Textbook Login
+http://www.socrative.com/
+www.kahoot.it
+www.shodor.org
+www.Insidemathematics.org
+www.xyzsolve.com
+www.ck12.org
+www.mathjong.com
+Pear Deck
+Socrative
+Edpuzzle
+Quizizz
+Nearpod
+
+Modifications/Student difficulties/Common errors
+
+Resources from textbook:
+● Lesson Presentations
+● Lesson Videos
+● Explore Activities
+● Online Practices
+● Exit Cards
+● Tiered Practices
+● Performance Tasks
+● Unit Reviews
+● Assessments
+
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+
+Emphasize note taking strategies
+Use guided notes when necessary
+Revisit and study notebook
+Create vocabulary notecards
+Use tools/manipulatives/models
+Reword application problems
+Use handouts/graphic organizers
+Review peer work and provide feedback
+Complete error analysis process.
+Create a study guide for intervention
+Build a glossary notebook
+
+Algebra I
+
+15
+
+Unit 4: Linear Equations
+Essential Questions
+●
+●
+●
+●
+●
+●
+
+Enduring Understandings
+
+What does the slope of a line represent?
+Compare and contrast the slope of parallel lines and perpendicular
+lines.
+How can a linear function be used to model real world situations?
+What is the best method to solve a system of linear equations?
+How do you solve a system of linear inequalities?
+What are possible solution sets for systems of equations and
+inequalities?
+
+●
+●
+●
+
+Slope shows the relationship between changing dependent variables
+over changing independent variables.
+Slope-intercept, point-slope, and standard form are interdependently
+related and can model real world situations.
+The relationship between two lines can be determined by comparing
+their slopes and y-intercepts.
+
+Core Content
+Objectives
+●
+
+●
+
+●
+
+●
+●
+●
+
+Write and graph linear
+equations in slope-intercept
+form.
+Model real-world data with
+equations in slope-intercept
+form.
+Write slope-intercept form
+equations using one or two
+points and a slope.
+Write equations in point-slope
+form.
+Write linear equations in
+different forms.
+Write equations of lines using
+lines that are parallel or
+perpendicular.
+
+Alignment to NJSLS
+F.IF.7a Graph linear and quadratic
+functions and show intercepts,
+maxima, and minima.
+F-BF.A.1a: Determine an explicit
+expression, a recursive process, or
+steps for calculation from a context.
+F-BF.A.1b: Combine standard function
+types using arithmetic operations. For
+example, build a function that models
+the temperature of a cooling body by
+adding a constant function to a
+decaying exponential, and relate
+these functions to the model.
+F-LE.B.5: Interpret the parameters of
+a linear or exponential function in
+
+Instructional Actions
+Recommended
+Activities/Strategies
+4.1: Graphing Equations in
+Slope-Intercept Form
+Khan Academy - Graphing
+Slope-Intercept Form
+IXL - Graphing Slope-Intercept Form
+Standard Form
+Khan Academy - Graphing Standard
+Form
+Practice - Graphing Standard Form
+Point-Slope Form
+IXL - Graphing Linear Equations
+
+Assessment Check Points
+Students will be formatively assessed
+through:
+● Teacher Observations
+● Do Nows
+● Exit Slips
+● Classwork
+● Extended Learning Activities
+● Stations
+● Educational Games
+Summative assessments include:
+● Minor Assessments
+● Major Assessments
+● Performance Assessments
+
+Algebra I
+
+16
+terms of a context.
+A.REI.10 Understand that the graph
+of an equation in two variables is the
+set of all its solutions plotted in the
+coordinate plane, often forming a
+curve (which could be a line).
+
+General Practice - Graphing Linear
+Equations
+4.2: Writing Equations in
+Slope-Intercept Form
+IXL - Writing in Slope-Intercept Form
+from Given Info
+Khan Academy - Writing in
+Slope-Intercept Form from Graph
+4.3: Writing Equations in Point-Slope
+Form
+Quizizz - Writing in Point-Slope Form
+Khan Academy - Writing in
+Point-Slope Form
+4.4: Parallel and Perpendicular Lines
+IXL - Parallel and Perpendicular Lines
+
+Algebra I
+
+17
+
+Resources:
+
+Instructional Adjustments:
+
+Essential Materials, Supplemental Materials, Links to Best Practices
+
+Modifications, Student Difficulties, Possible Misunderstandings
+
+Algebra 1 Textbook Login
+http://www.socrative.com/
+www.kahoot.it
+www.shodor.org
+www.Insidemathematics.org
+www.xyzsolve.com
+www.ck12.org
+www.mathjong.com
+Pear Deck
+Socrative
+Edpuzzle
+Quizizz
+Nearpod
+
+Modifications/Student difficulties/Common errors
+
+Resources from textbook:
+● Lesson Presentations
+● Lesson Videos
+● Explore Activities
+● Online Practices
+● Exit Cards
+● Tiered Practices
+● Performance Tasks
+● Unit Reviews
+● Assessments
+
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+
+Emphasize note taking strategies
+Use guided notes when necessary
+Revisit and study notebook
+Create vocabulary notecards
+Use tools/manipulatives/models
+Reword application problems
+Use handouts/graphic organizers
+Review peer work and provide feedback
+Complete error analysis process.
+Create a study guide for intervention
+Build a glossary notebook
+
+Algebra I
+
+18
+
+Unit 5: Systems of Equations and Inequalities
+Essential Questions
+●
+●
+●
+●
+●
+
+Enduring Understandings
+
+How can systems of linear equations and inequalities be used in
+decision making?
+How can you use linear programming to budget resources?
+What is the best method to solve a system of linear equations?
+How do you solve a system of linear inequalities?
+What are possible solution sets for systems of equations and
+inequalities?
+
+●
+●
+●
+●
+●
+●
+
+Systems of equations and inequalities can be used to model and
+interpret real-world situations that involve decision making.
+Systems can be solved using a variety of methods.
+A system of equations or inequalities can have one solution, no
+solution, or an infinite number of solutions.
+Linear programming can be used to determine the best way to
+budget resources.
+Linear inequalities can be used to develop linear programming models.
+Systems of inequalities can be solved by graphing.
+
+Core Content
+Objectives
+●
+
+Solve systems of linear
+equations graphically and
+algebraically.
+
+●
+
+Solve systems of inequalities
+graphically.
+
+●
+
+Strategically convert between
+various forms for a linear
+equation, depending on the
+situation.
+
+●
+
+Use graphical representations
+of inequalities to interpret
+constraints.
+
+Alignment to NJSLS
+A.CED.A.2: Create equations in two
+or more variables to represent
+relationships between quantities:
+graph equations on coordinate axes
+with labels and scales.
+A.CED.A.3: Represent constraints by
+equations or inequalities, and by
+systems of equations and/or
+inequalities, and interpret solutions as
+viable or nonviable options in a
+modeling context. For example,
+represent inequalities describing
+nutritional and cost constraints on
+combinations of different foods.
+A.REI.C.5: Prove that, given a system
+of two equations in two variables,
+
+Instructional Actions
+Recommended
+Activities/Strategies
+6.1: Graphing Systems of Equations
+Algebra-Class.Com - Notes for
+Graphing Systems of Equations
+6.2: Substitution
+DeltaMath.Com - Substitution Method
+6.3-6.4: Elimination
+IXL - Elimination Method
+YouTube - Elimination Method
+Practice - Elimination Method
+6.5: Applying Systems of Equations
+YouTube - Applying Systems WP
+
+Assessment Check Points
+Students will be formatively assessed
+through:
+● Teacher Observations
+● Do Nows
+● Exit Slips
+● Classwork
+● Extended Learning Activities
+● Stations
+● Educational Games
+Summative assessments include:
+● Minor Assessments
+● Major Assessments
+● Performance Assessments
+
+Algebra I
+●
+
+●
+
+●
+
+Use systems of inequalities to
+represent real-world situations
+involving constraints.
+Interpret and solve systems of
+inequalities involving
+constraints.
+Graph systems of equations
+and inequalities
+
+19
+replacing one equation by the sum of
+that equation and a nonzero multiple
+of the other produces a system with
+the same solutions.
+A.REI.C.6: Solve systems of linear
+equations exactly and approximately
+(e.g., with graphs), focusing on pairs
+of linear equations in two variables.
+A.REI.D.11: Explain why the
+x-coordinates of the points where the
+graphs of the equations y=f(x) and
+y=g(x)intersect are the solutions of the
+equation f(x)=g(x);find the solutions
+approximately, e.g., using technology
+to graph the functions, make tables of
+values, or find successive
+approximations. Include cases where
+f(x) and/or g(x) are linear, polynomial,
+rational, absolute value, exponential,
+and logarithmic functions.
+A.REI.D.12: Graph the solutions to a
+linear inequality in two variables as a
+half-plane (excluding the boundary in
+the case of a strict inequality), and
+graph the solution set to a system of
+linear inequalities in two variables as
+the intersection of the corresponding
+Half-planes.
+N.Q.A.3: Choose a level of accuracy
+appropriate to limitations on measures
+when recording quantities
+
+IXL - Applying Systems WP
+5.6: Graphing Inequalities in Two
+Variables
+IXL - Graphing Inequalities in Two
+Variables
+Khan Academy - Graphing
+Inequalities in Two Variables
+6.6: Systems of Inequalities
+Khan Academy - Systems of
+Inequalities WP
+
+Algebra I
+
+20
+
+Resources:
+
+Instructional Adjustments:
+
+Essential Materials, Supplemental Materials, Links to Best Practices
+
+Modifications, Student Difficulties, Possible Misunderstandings
+
+Algebra 1 Textbook Login
+http://www.socrative.com/
+www.kahoot.it
+www.shodor.org
+www.Insidemathematics.org
+www.xyzsolve.com
+www.ck12.org
+www.mathjong.com
+Pear Deck
+Socrative
+Edpuzzle
+Quizizz
+Nearpod
+
+Modifications/Student difficulties/Common errors
+
+Resources from textbook:
+● Lesson Presentations
+● Lesson Videos
+● Explore Activities
+● Online Practices
+● Exit Cards
+● Tiered Practices
+● Performance Tasks
+● Unit Reviews
+● Assessments
+
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+
+Emphasize note taking strategies
+Use guided notes when necessary
+Revisit and study notebook
+Create vocabulary notecards
+Use tools/manipulatives/models
+Reword application problems
+Use handouts/graphic organizers
+Review peer work and provide feedback
+Complete error analysis process.
+Create a study guide for intervention
+Build a glossary notebook
+
+Algebra I
+
+21
+
+Unit 6: Exponential Functions and Properties
+Essential Questions
+●
+●
+●
+●
+
+Enduring Understandings
+
+How can you simplify expressions using exponents?
+How are numbers less than 1 represented with exponents?
+How can you use an exponential function to interpret real-world
+and mathematical situations?
+How does the structure of an exponential expression reveal the
+growth or decay behavior of an exponential function?
+
+●
+●
+●
+
+●
+●
+●
+
+Exponents can be extended to include zero and negative
+exponents.
+Exponent expressions with the same base can be simplified
+using properties of exponents.
+Properties of exponents allow expressions in which powers
+raised to a power or quantities raised to a power can be
+simplified.
+Calculations with numbers in scientific notation follow the
+properties of exponents.
+Exponential growth and decay models can be used in real
+world scenarios including finding simple interest.
+Determining the initial value and the growth rate allow you to
+algebraically represent or interpret an exponential function
+that models a specific contextual relationship.
+
+Core Content
+Objectives
+
+Alignment to NJSLS
+
+●
+
+Describe how the growth rate
+and initial value influence an
+exponential function.
+
+F-BF.A.1a: Determine an explicit
+expression, a recursive process, or
+steps for calculation from a context.
+
+●
+
+Graph exponential functions,
+interpreting the impact of the
+value of a, b, and c in
+f(x)=abx+c .
+
+F-BF.A.1b: Combine standard function
+types using arithmetic operations. For
+example, build a function that models
+the temperature of a cooling body by
+adding a constant function to a
+
+Instructional Actions
+Recommended
+Activities/Strategies
+7.1: Multiplication Property of
+Exponents
+Khan Academy - Multiplication
+Property of Exponents
+IXL - Multiplication Property of
+Exponents
+7.2: Division Properties of Exponents
+
+Assessment Check Points
+Students will be formatively assessed
+through:
+● Teacher Observations
+● Do Nows
+● Exit Slips
+● Classwork
+● Extended Learning Activities
+● Stations
+● Educational Games
+
+Algebra I
+
+22
+
+●
+
+Identify the domain and range
+of exponential functions.
+
+decaying exponential, and relate
+these functions to the model.
+
+MathPlanet.Com - Notes for Division
+Property of Exponents
+
+●
+
+Calculate the average rate of
+change of an exponential
+function from a graph and a
+table.
+
+F-BF.B.3: Identify the effect on the
+graph of replacing f(x) by f(x)+ k, k
+f(x), f(kx), and f(x + k) for specific
+values of k (both positive and
+negative); find the value of k given the
+graphs. Experiment with cases, and
+illustrate an explanation of the effects
+on the graph using technology.
+Include recognizing even and odd
+functions from their graphs and
+algebraic expressions for them.
+
+Khan Academy - Division Property of
+Exponents
+
+S-ID.B.6a: Fit a function to the data;
+use functions fitted to data to solve
+problems in the context of the data.
+
+7.6: Growth and Decay
+Khan Academy - Growth and Decay
+
+●
+
+Construct exponential
+functions to model real-world
+situations.
+
+●
+
+Describe exponential growth
+and decay in the context of
+real-world scenarios.
+
+●
+
+Identify exponential growth
+and decay from equations
+and graphs.
+
+●
+
+Rewrite exponential functions
+to interpret the function in
+context.
+
+●
+
+Solve exponential equations
+graphically.
+
+●
+
+Relate geometric sequences
+to exponential functions.
+
+●
+
+Express exponential
+relationships in a variety of
+forms: next-now, recursive,
+implicit (y=ab^x), and explicit
+(f(x)=ab^x).
+
+●
+
+Describe functions using
+
+F-IF.B.4: For a function that models a
+relationship between two quantities,
+interpret key features of graphs and
+tables in terms of the quantities, and
+sketch graphs showing key features
+given a verbal description of the
+relationship. Key features include:
+intercepts; intervals where the
+function is increasing, decreasing,
+positive, or negative; relative
+maximums and minimums;
+symmetries; end behavior; and
+periodicity.
+F-IF.B.5: Relate the domain of a
+function to its graph and, where
+applicable, to the quantitative
+relationship it describes. For example,
+if the function h(n) gives the number
+
+7.3: Rational Exponents
+Khan Academy - Rational Exponents
+7.5: Exponential Functions
+Khan Academy - Graphs of
+Exponential Functions
+Practice - Exponential Functions
+
+IXL - Growth and Decay Word
+Problems
+
+Summative assessments include:
+● Minor Assessments
+● Major Assessments
+● Performance Assessments
+
+Algebra I
+multiple representations:
+verbally, numerically in tables,
+and algebraically.
+●
+
+Compare linear and
+exponential functions.
+
+23
+of person-hours it takes to assemble n
+engines in a factory, then the positive
+integers would be an appropriate
+domain for the function.
+F-IF.B.6: Calculate and interpret the
+average rate of change of a function
+(presented symbolically or as a table)
+over a specified interval. Estimate the
+rate of change from a graph.
+F-IF.C.7e: Graph exponential and
+logarithmic functions, showing
+intercepts and end behavior, and
+trigonometric functions, showing
+period, midline, and amplitude.
+F-LE.A.2: Construct linear and
+exponential functions, including
+arithmetic and geometric sequences,
+given a graph, a description of a
+relationship, or two input-output pairs
+(include reading these from a table).
+A-REI.D.11: Explain why the
+x-coordinates of the points where the
+graphs of the equations y=f ( x ) and
+y=g ( x ) intersect are the solutions of
+the equation f ( x )=g ( x ); find the
+solutions approximately, e.g., using
+technology to graph the functions,
+make tables of values, or find
+successive approximations. Include
+cases where f(x) and/or g(x) are
+linear, polynomial, rational, absolute
+value, exponential, and logarithmic
+functions.
+
+Algebra I
+
+24
+A-SSE.B.3.c: Use the properties of
+exponents to transform expressions
+for exponential functions. For example
+the expression 1.15t can be rewritten
+as (1.15112)12t≈1.01212t to reveal
+the approximate equivalent monthly
+interest rate if the annual rate is 15%.
+A-SSE.A.1.b: Interpret complicated
+expressions by viewing one or more
+of their parts as a single entity. For
+example, interpret P(1+r)n as the
+product of P and a factor not
+depending on P.
+F-IF.C.8b: Use the properties of
+exponents to interpret expressions for
+exponential functions. For example,
+identify percent rate of change in
+functions such as y=( 1.02 )t, y=( 0.97
+)t, y=( 1.01 )12t, y=( 1.2 )t10, and
+classify them as representing
+exponential growth or decay.
+F-LE.A.1c: Recognize situations in
+which a quantity grows or decays by a
+constant percent rate per unit interval
+relative to another.
+F-LE.B.5: Interpret the parameters in
+a linear or exponential function in
+terms of a context.
+
+Algebra I
+
+25
+
+Resources:
+
+Instructional Adjustments:
+
+Essential Materials, Supplemental Materials, Links to Best Practices
+
+Modifications, Student Difficulties, Possible Misunderstandings
+
+Algebra 1 Textbook Login
+http://www.socrative.com/
+www.kahoot.it
+www.shodor.org
+www.Insidemathematics.org
+www.xyzsolve.com
+www.ck12.org
+www.mathjong.com
+Pear Deck
+Socrative
+Edpuzzle
+Quizizz
+Nearpod
+
+Modifications/Student difficulties/Common errors
+
+Resources from textbook:
+● Lesson Presentations
+● Lesson Videos
+● Explore Activities
+● Online Practices
+● Exit Cards
+● Tiered Practices
+● Performance Tasks
+● Unit Reviews
+● Assessments
+
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+
+Emphasize note taking strategies
+Use guided notes when necessary
+Revisit and study notebook
+Create vocabulary notecards
+Use tools/manipulatives/models
+Reword application problems
+Use handouts/graphic organizers
+Review peer work and provide feedback
+Complete error analysis process.
+Create a study guide for intervention
+Build a glossary notebook
+
+Algebra I
+
+26
+
+Unit 7: Quadratic Expressions and Equations
+Essential Questions
+●
+●
+●
+●
+
+Enduring Understandings
+
+How do the properties of integer operations apply to operations
+on polynomials?
+What is the relationship between multiplying polynomials and
+factoring polynomials?
+What is the relationship between the factors of a polynomial
+expression, zeros of a function, and the x-intercepts of a graph?
+How can the characteristics of a polynomial be used to factor
+the polynomial?
+
+●
+●
+●
+●
+
+The properties of polynomial operations are equivalent to
+properties of integer operations.
+Factoring a polynomial is the process of rewriting a polynomial
+as a product of its prime factors.
+Factors, zeros and x-intercepts are related.
+The ability to identify special products and greatest common
+factors is useful for factoring efficiently.
+
+Core Content
+Objectives
+●
+
+Classify polynomials, identify
+key features, and write
+polynomials in a variety of
+forms.
+
+●
+
+Add, subtract, and multiply
+polynomials.
+
+●
+
+Factor polynomials.
+
+●
+
+Rewrite polynomials to reveal
+the contextual interpretation.
+
+Alignment to NJSLS
+A-SSE.A.1: Interpret expressions
+that represent a quantity in terms
+of its context.
+A-APR.A.1: Understand that
+polynomials form a system analogous
+to the integers, namely, they are
+closed under the operations of
+addition, subtraction, and
+multiplication; add, subtract, and
+multiply polynomials.
+N-RN.A.2: Rewrite expressions
+involving radicals and rational
+exponents using the properties of
+exponents. Interpret complicated
+expressions by viewing one or
+
+Instructional Actions
+Recommended
+Activities/Strategies
+8.1: Adding and Subtracting
+Polynomials
+IXL - Adding and Subtracting
+Polynomials
+Khan Academy - Adding and
+Subtracting Polynomials
+8.2: Multiplying a Polynomial by a
+Monomials
+Khan Academy - Multiplying a
+Polynomial by a Monomials
+IXL - Multiplying a Polynomial by a
+Monomial
+8.3: Multiplying Polynomials
+Practice - Multiplying Polynomials
+
+Assessment Check Points
+Students will be formatively assessed
+through:
+● Teacher Observations
+● Do Nows
+● Exit Slips
+● Classwork
+● Extended Learning Activities
+● Stations
+● Educational Games
+Summative assessments include:
+● Minor Assessments
+● Major Assessments
+● Performance Assessments
+
+Algebra I
+
+27
+more of their parts as a single
+entity. For example, interpret
+P(1+r)n as the product of P and
+a factor not depending on P.
+A-SSE.A.2: Use the structure of
+an expression to identify ways to
+rewrite it. For example, see x4–y4
+as (x2)2– (y2)2, thus recognizing it
+as a difference of squares that can
+be factored as (x2– y2)(x2+ y2).
+
+8.4: Special Products
+Khan Academy - Special Products
+Practice - Special Products
+8.5: Distributive Property
+Khan Academy - Distributive Property
+8.6-8.9: Solving by Factoring
+YouTube - Factoring a=1
+YouTube - Factoring a>1
+
+A-SSE.B.3a: Factor a quadratic
+expression to reveal the zeros of
+the function it defines.
+A.REI.4A: Use the method of
+completing the square to
+transform any quadratic equation
+in x into an equation of the form
+(x−p)2=q that has the same
+solutions. Derive the quadratic
+formula from this form.
+
+IXL - Factoring a>1
+Khan Academy - Difference of
+Squares
+Khan Academy - Difference of
+Squares
+PurpleMath.com - Notes Difference of
+Squares
+Khan Academy - Perfect Squares
+PurpleMath.com - Notes Perfect
+Squares
+
+Algebra I
+
+28
+
+Resources:
+
+Instructional Adjustments:
+
+Essential Materials, Supplemental Materials, Links to Best Practices
+
+Modifications, Student Difficulties, Possible Misunderstandings
+
+Algebra 1 Textbook Login
+http://www.socrative.com/
+www.kahoot.it
+www.shodor.org
+www.Insidemathematics.org
+www.xyzsolve.com
+www.ck12.org
+www.mathjong.com
+Pear Deck
+Socrative
+Edpuzzle
+Quizizz
+Nearpod
+
+Modifications/Student difficulties/Common errors
+
+Resources from textbook:
+● Lesson Presentations
+● Lesson Videos
+● Explore Activities
+● Online Practices
+● Exit Cards
+● Tiered Practices
+● Performance Tasks
+● Unit Reviews
+● Assessments
+
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+
+Emphasize note taking strategies
+Use guided notes when necessary
+Revisit and study notebook
+Create vocabulary notecards
+Use tools/manipulatives/models
+Reword application problems
+Use handouts/graphic organizers
+Review peer work and provide feedback
+Complete error analysis process.
+Create a study guide for intervention
+Build a glossary notebook
+
+Algebra I
+
+29
+
+Unit 8: Quadratic Functions
+Essential Questions
+●
+●
+●
+●
+
+Enduring Understandings
+
+How can you model and solve real-world problems using
+quadratic equations?
+How does the zero product property empower you to analyze a
+quadratic equation?
+How does completing the square help you analyze a quadratic
+equation?
+How do you use the quadratic formula and its discriminant to
+analyze problem situations and identify possible types of
+solutions?
+
+●
+●
+●
+
+There are multiple ways to represent and solve quadratic
+equations.
+The value of the discriminant determines the number and types
+of solutions.
+The quadratic formula is derived from the process of completing
+the square.
+
+Core Content
+Objectives
+●
+
+●
+
+Use a variety of methods to
+solve quadratic equations: by
+graphing, factoring, and
+completing the square.
+Determine if a solution to a
+quadratic equation is rational
+or irrational and explain why.
+
+●
+
+Derive the quadratic formula.
+
+●
+
+Use the quadratic formula to
+solve quadratic equations.
+
+●
+
+Use the discriminant of a
+quadratic equation to
+
+Alignment to NJSLS
+A-REI.B.4a: Use the method of
+completing the square to transform
+any quadratic equation in x into an
+equation of the form (x−p)2=q that
+as the same solutions. Derive the
+quadratic formula from this form.
+A-REI.B.4b: Solve quadratic
+equations by inspection (e.g., for
+x2=49) taking square roots,
+completing the square, the
+quadratic formula and factoring, as
+appropriate to the initial form of the
+equation. Recognize when the
+quadratic formula gives complex
+solutions and write them as a ± bi
+
+Instructional Actions
+Recommended
+Activities/Strategies
+9.1: Graphing Quadratics
+Khan Academy - Graphing Quadratics
+9.2: Solving Quadratics by Graphing
+YouTube - Solving Quadratics by
+Graphing
+9.3: Transformations of Quadratics
+IXL - Transformations of Quadratics
+Khan Academy - Transformations of
+Quadratics
+9.4: Completing The Square
+Khan Academy - Completing the
+Square
+
+Assessment Check Points
+Students will be formatively assessed
+through:
+● Teacher Observations
+● Do Nows
+● Exit Slips
+● Classwork
+● Extended Learning Activities
+● Stations
+● Educational Games
+Summative assessments include:
+● Minor Assessments
+● Major Assessments
+● Performance Assessments
+
+Algebra I
+determine if it has two
+rational roots, two irrational
+roots, one root, or no real
+roots.
+●
+
+Graph quadratic functions and
+identify the domain and
+range.
+
+●
+
+Explore the effect of replacing
+f(x) by f(x)+k or by f(x+k) on
+the graph of quadratic
+functions.
+
+●
+
+Create a quadratic function
+that describes a relationship
+between two quantities.
+
+●
+
+Compare linear, quadratic,
+and exponential functions.
+
+●
+
+●
+
+Transform quadratic functions
+between standard form and
+vertex form.
+Identify the graph of a
+quadratic function, and find
+the vertex and axis of
+symmetry of a parabola.
+
+30
+for real numbers a and b.
+A-APR.B.3: Understand The
+Relationship Between Zeros And
+Factors of Polynomials. Identify
+zeros of polynomials when suitable
+factorizations are available, and
+use the zeros to construct a rough
+graph of the function defined by the
+polynomial.
+F-IF.C.8a: Use the process of
+factoring and completing the
+square in a quadratic function to
+show zeros, extreme values, and
+symmetry of the graph, and
+interpret these in terms of a
+context.
+F.IF.C.7a: Graph linear and quadratic
+functions and show intercepts,
+maxima, and minima.
+A-SSE.B.3b: Complete the square
+in a quadratic expression to reveal
+the maximum or minimum value of
+the function it defines.
+
+●
+
+Interpret key features of
+quadratic functions in
+context.
+
+A-CED.A.2: Create equations in
+two or more variables to represent
+relationships between quantities;
+graph equations on coordinate
+axes with labels and scales.
+
+●
+
+Determine the zeros of a
+quadratic function using its
+graph, and graph a quadratic
+function using its zeros.
+
+A-CED.A.1: Create equations
+and inequalities in one variable
+and use them to solve problems.
+Include equations arising from
+
+IXL - Completing the Square
+9.5: Quadratic Formula
+Khan Academy - Quadratic Formula
+
+Algebra I
+
+31
+linear and quadratic functions,
+and simple rational and
+exponential functions.
+F-IF.B.4: For a function that
+models a relationship between
+two quantities, interpret key
+features of graphs and tables in
+terms of the quantities, and
+sketch graphs showing key
+features given a verbal
+description of the relationship.
+Key features include: intercepts;
+intervals where the function is
+increasing, decreasing, positive,
+or negative; relative maximums
+and minimums; symmetries; end
+behavior; and periodicity.
+F-IF.B.5: Relate the domain of a
+function to its graph and, where
+applicable, to the quantitative
+relationship it describes. For
+example, if the function h(n)
+gives the number of personhours it takes to assemble n
+engines in a factory, then the
+positive integers would be an
+appropriate domain for the
+function.
+F-IF.C.7a: Graph linear and
+quadratic functions and show
+intercepts, maxima, and minima.
+F-IF.C.7c: Graph polynomial
+functions, identifying zeros when
+suitable factorizations are
+
+Algebra I
+
+32
+available, and showing end
+behavior.
+F-IF.C.8a: Use the process of
+factoring and completing the
+square in a quadratic function to
+show zeros, extreme values, and
+symmetry of the graph, and
+interpret these in terms of a
+context.
+F-IF.C.9: Compare properties of
+two functions each represented
+in a different way (algebraically,
+graphically, numerically in tables,
+or by verbal descriptions). For
+example, given a graph of one
+quadratic function and an
+algebraic expression for another,
+say which has the larger
+maximum.
+F-BF.B.3: Identify the effect on
+the graph of replacing f(x) by
+f(x)+k, k⋅f(x), f(kx), and f(x+k) for
+specific values of k (both positive
+and negative); find the value of k
+given the graphs. Experiment
+with cases and illustrate an
+explanation of the effects on the
+graph using technology. Include
+recognizing even and odd
+functions from their graphs and
+algebraic expressions for them.
+F-LE.A.3: Observe using graphs
+and tables that a quantity
+increasing exponentially
+
+Algebra I
+
+33
+eventually exceeds a quantity
+increasing linearly, quadratically,
+or (more generally) as a
+polynomial function.
+F-BF.A.1c(+): Compose
+functions.
+F-BF.A.1a: Determine an explicit
+expression, a recursive process,
+or steps for calculation from a
+context.
+F-BF.A.1b: Combine standard
+function types using arithmetic
+operations.
+
+Resources:
+
+Instructional Adjustments:
+
+Essential Materials, Supplemental Materials, Links to Best Practices
+
+Modifications, Student Difficulties, Possible Misunderstandings
+
+Algebra 1 Textbook Login
+http://www.socrative.com/
+www.kahoot.it
+www.shodor.org
+www.Insidemathematics.org
+www.xyzsolve.com
+www.ck12.org
+www.mathjong.com
+Pear Deck
+Socrative
+Edpuzzle
+Quizizz
+Nearpod
+
+Modifications/Student difficulties/Common errors
+
+Resources from textbook:
+● Lesson Presentations
+● Lesson Videos
+● Explore Activities
+● Online Practices
+● Exit Cards
+● Tiered Practices
+● Performance Tasks
+● Unit Reviews
+● Assessments
+
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+
+Emphasize note taking strategies
+Use guided notes when necessary
+Revisit and study notebook
+Create vocabulary notecards
+Use tools/manipulatives/models
+Reword application problems
+Use handouts/graphic organizers
+Review peer work and provide feedback
+Complete error analysis process.
+Create a study guide for intervention
+Build a glossary notebook
+
+Algebra I
+
+34
+
+Unit 9: Square Root Functions and Radical Properties
+Essential Questions
+●
+●
+●
+●
+
+Enduring Understandings
+
+How can you write different but equivalent forms of an
+expression that includes radicals or rational exponents?
+How are radical expressions represented?
+Why can’t all properties of square roots be used to simplify
+radical expressions?
+What real world scenarios can be represented with square root
+functions?
+
+Core Content
+Objectives
+●
+
+Simplify radical expressions
+by using the Product Property
+of Square Roots
+
+●
+
+Simplify radical expressions
+by using the Quotient
+Property of Square Roots.
+
+Alignment to NJSLS
+
+●
+
+Solve radical equations.
+
+F.BF.4a: For a function that models a
+relationship between two quantities,
+interpret key features of graphs and
+tables in terms of the quantities, and
+sketch graphs showing key features
+given a verbal description of the
+relationship. Key features include:
+intercepts; intervals where the
+function is increasing, decreasing,
+positive, or negative; relative
+maximums and minimums;
+symmetries; end behavior; and
+periodicity.
+
+●
+
+Solve radical equations with
+
+F.IF.4: For a function that models a
+
+●
+
+Add and subtract radical
+expressions. Multiply radical
+expressions.
+
+● Rational exponents can be used to represent radicals.
+● Radical expressions can be simplified using the multiplication
+and division properties of square roots.
+● Rationalizing the denominator of a radical expression removes
+the radical from the denominator completely.
+● The denominators of some radical expressions can be
+rationalized by multiplying by conjugates.
+● The properties of real numbers can be used to perform
+operations with radical expressions.
+
+Instructional Actions
+Recommended
+Activities/Strategies
+10.1: Square Root Functions
+Varsity Tutors - Notes on Square
+Roots
+CK-12 - Notes on Square Roots
+10.2: Simplifying Radical Expressions
+YouTube - Simplifying Radical
+Expressions
+IXL - Simplifying Radical Expressions
+IXL - Simplifying Radical Expressions
+10.3: Operations with Radical
+Expressions
+
+Assessment Check Points
+Students will be formatively assessed
+through:
+● Teacher Observations
+● Do Nows
+● Exit Slips
+● Classwork
+● Extended Learning Activities
+● Stations
+● Educational Games
+Summative assessments include:
+● Minor Assessments
+● Major Assessments
+● Performance Assessments
+
+Algebra I
+extraneous solutions
+●
+
+Graph and analyze reflections
+and dilations of radical
+functions.
+
+35
+relationship between two quantities,
+interpret key features of graphs and
+tables in terms of the quantities, and
+sketch graphs showing key features
+given a verbal description of the
+relationship. Key features include:
+intercepts; intervals where the
+function is increasing, decreasing,
+positive, or negative; relative
+maximums and minimums;
+symmetries; end behavior; and
+periodicity.
+A.REI.4: Use the method of
+completing the square to transform
+any quadratic equation in x into an
+equation of the form (x−p)^2=q that
+has the same solutions. Derive the
+quadratic formula from this form.
+A.CED.2: Create equations in two or
+more variables to represent
+relationships between quantities:
+graph equations on coordinate
+axes with labels and scales.
+
+SoftSchools.com - Notes on Adding
+with Radical Expressions
+SoftSchools.com - Notes on
+Multiplying with Radical Expressions
+IXL - Operations with Radical
+Expressions - Mixed Review
+10.4: Radical Equations
+IXL - Radical Equations
+IXL - Radical Equations
+
+Algebra I
+
+36
+
+Resources:
+
+Instructional Adjustments:
+
+Essential Materials, Supplemental Materials, Links to Best Practices
+
+Modifications, Student Difficulties, Possible Misunderstandings
+
+Algebra 1 Textbook Login
+http://www.socrative.com/
+www.kahoot.it
+www.shodor.org
+www.Insidemathematics.org
+www.xyzsolve.com
+www.ck12.org
+www.mathjong.com
+Pear Deck
+Socrative
+Edpuzzle
+Quizizz
+Nearpod
+
+Modifications/Student difficulties/Common errors
+
+Resources from textbook:
+● Lesson Presentations
+● Lesson Videos
+● Explore Activities
+● Online Practices
+● Exit Cards
+● Tiered Practices
+● Performance Tasks
+● Unit Reviews
+● Assessments
+
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+
+Emphasize note taking strategies
+Use guided notes when necessary
+Revisit and study notebook
+Create vocabulary notecards
+Use tools/manipulatives/models
+Reword application problems
+Use handouts/graphic organizers
+Review peer work and provide feedback
+Complete error analysis process.
+Create a study guide for intervention
+Build a glossary notebook
+
+Algebra I
+
+37
+
+Unit 10: Rational Functions
+Essential Questions
+●
+●
+●
+●
+
+Enduring Understandings
+
+Compare and contrast rational expressions to fractional expressions.
+How can you identify an asymptote algebraically?
+How can you check that you have simplified a rational expression
+correctly?
+What are extraneous solutions?
+
+●
+
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+
+Inverse variation can be represented by the equation y=k/x, where k
+represents a constant known as the constant of variation or constant of
+proportionality.
+The product rule for inverse variations can be used to write an
+equation and solve real-world problems.
+A rational function is nonlinear.
+Any variable that results in a denominator of zero in a rational function
+is excluded from the domain of the function.
+An asymptote is a line that the graph of a function approaches.
+A rational expression is an algebraic fraction whose numerator and
+denominator are polynomials.
+A rational expression is in simplest form when the numerator and
+denominator have no common factors except 1.
+To multiply and divide rational expressions, you use the same rules as
+multiplying or dividing fractions.
+To add or subtract rational expressions with uncommon denominators
+you must find the least common denominator.
+A rational equation contains one or more rational expressions.
+Solutions that are excluded from the solution set are called
+extraneous.
+
+Core Content
+Objectives
+●
+
+Identify and use inverse
+variations.
+
+●
+
+Graph inverse variation.
+
+●
+
+Identify excluded values.
+
+Alignment to NJSLS
+A.CED.2: Create equations in two or
+more variables to represent
+relationships between quantities:
+graph equations on coordinate
+axes with labels and scales.
+
+Instructional Actions
+Recommended
+Activities/Strategies
+11.1: Inverse Variation
+Khan Academy - Inverse Variation
+11.2: Rational Functions
+Khan Academy - Graphs of Rational
+Functions
+
+Assessment Check Points
+Students will be formatively assessed
+through:
+● Teacher Observations
+● Do Nows
+● Exit Slips
+● Classwork
+● Extended Learning Activities
+
+Algebra I
+●
+
+●
+
+Identify and use asymptotes
+to graph rational functions.
+Identify values excluded from
+the domain of rational
+expressions.
+
+●
+
+Multiply rational expressions.
+
+●
+
+Divide rational expressions.
+
+●
+
+Add and subtract rational
+expressions with like
+denominators.
+
+●
+
+Add and subtract rational
+expressions with unlike
+denominators.
+
+●
+
+Simplify mixed expressions.
+
+●
+
+Simplify complex fractions.
+
+38
+A.CED.A.1: Create equations and
+inequalities in one variable and use
+them to solve problems. Include
+equations arising from linear and
+quadratic functions, and simple
+rational and exponential functions.
+
+IXL - Rational Functions
+11.3: Simplifying Radical Expressions
+Khan Academy - Reducing Rational
+Expressions
+Quizizz - Simplifying Radical
+Expressions
+11.4: Multiplying and Dividing Rational
+Expressions
+Khan Academy - Multiplying and
+Dividing Rational Expressions
+IXL - Multiplying and Dividing Rational
+Expressions
+11.6: Adding and Subtracting Rational
+Expressions
+Khan Academy - Adding and
+Subtracting Rational Numbers
+Khan Academy - Adding Fractions as
+Rational Expressions
+IXL - Adding and Subtracting Rational
+Expressions
+11.7: Mixed Expressions and Complex
+Fractions
+Khan Academy - Simplifying Complex
+Fractions
+
+●
+●
+
+Stations
+Educational Games
+
+Summative assessments include:
+● Minor Assessments
+● Major Assessments
+● Performance Assessments
+
+Algebra I
+
+39
+
+Resources:
+
+Instructional Adjustments:
+
+Essential Materials, Supplemental Materials, Links to Best Practices
+
+Modifications, Student Difficulties, Possible Misunderstandings
+
+Algebra 1 Textbook Login
+http://www.socrative.com/
+www.kahoot.it
+www.shodor.org
+www.Insidemathematics.org
+www.xyzsolve.com
+www.ck12.org
+www.mathjong.com
+Pear Deck
+Socrative
+Edpuzzle
+Quizizz
+Nearpod
+
+Modifications/Student difficulties/Common errors
+
+Resources from textbook:
+● Lesson Presentations
+● Lesson Videos
+● Explore Activities
+● Online Practices
+● Exit Cards
+● Tiered Practices
+● Performance Tasks
+● Unit Reviews
+● Assessments
+
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+
+Emphasize note taking strategies
+Use guided notes when necessary
+Revisit and study notebook
+Create vocabulary notecards
+Use tools/manipulatives/models
+Reword application problems
+Use handouts/graphic organizers
+Review peer work and provide feedback
+Complete error analysis process.
+Create a study guide for intervention
+Build a glossary notebook
+
+Algebra I
+
+40
+
+Unit 11: Special Functions, Trigonometry, and Probability
+Essential Questions
+●
+●
+●
+●
+●
+
+Enduring Understandings
+
+How are algebraic, numeric, and graphical representations
+of piecewise functions related?
+How can Pythagorean Theorem help us find missing sides
+of triangles?
+How can we represent special functions in real world
+scenarios?
+How can we predict amounts of outcomes using
+combinations and permutations?
+Which ratio can we use to find the measure of an angle?
+
+●
+●
+●
+●
+●
+
+Complex mathematical models, representing real-world
+phenomena, can be created using special functions.
+Mathematical models can be used to describe real-world
+relationships that are often nonlinear.
+Combinations and Permutations application with various
+samples.
+Pythagorean Theorem proves right triangles.
+Trigonometric ratios can be used to determine the angle that a
+road rises or falls.
+
+Core Content
+Objectives
+●
+
+Write equations of best-fit
+using linear functions.
+
+●
+
+Write equations of median fit
+lines.
+
+●
+
+Identify and graph step
+functions.
+
+●
+
+●
+
+●
+
+Identify and graph absolute
+value and piecewise
+functions.
+Solve problems by using
+Pythagorean Theorem.
+Determine whether a triangle
+
+Alignment to NJSLS
+S.ID.B.5 Summarize categorical data
+for two categories in two-way
+frequency tables. Interpret relative
+frequencies in the context of the data
+(including joint, marginal, and
+conditional relative frequencies).
+Recognize possible associations and
+trends in the data.
+S.ID.B.6 Represent data on two
+quantitative variables on a scatter
+plot, and describe how the variables
+are related.
+S.ID.C.8 Compute (using technology)
+and interpret the correlation
+coefficient of a linear fit.
+
+Instructional Actions
+Recommended
+Activities/Strategies
+4.5: Scatter Plots and Lines of Fit
+Khan Academy - Estimating Lines of
+Best Fit
+9.7: Special Functions
+Khan Academy - Evaluating Step
+Functions
+10.5: Pythagorean Theorem
+YouTube - Pythagorean Theorem
+IXL - Pythagorean Theorem
+10.6: Trigonometric Ratios
+Khan Academy - Trigonometric Ratios
+12.6: Permutations and Combinations
+
+Assessment Check Points
+Students will be formatively assessed
+through:
+● Teacher Observations
+● Do Nows
+● Exit Slips
+● Classwork
+● Extended Learning Activities
+● Stations
+● Educational Games
+Summative assessments include:
+● Minor Assessments
+● Major Assessments
+● Performance Assessments
+
+Algebra I
+
+41
+
+is right.
+●
+
+●
+
+Find trigonometric ratios of
+angles.
+Use trigonometry to solve
+triangles.
+
+●
+
+Use permutations and
+combinations.
+
+●
+
+Find probabilities of
+independent and dependent
+events.
+
+●
+
+Find probabilities of mutually
+exclusive events.
+
+F-IF.C.7b: Graph square root, cube
+root, and piecewise-defined
+functions, including step functions
+and absolute value functions.
+
+F.IF.4 For a function that models a
+relationship between two quantities,
+interpret key features of graphs and
+tables in terms of the quantities, and
+sketch graphs showing key features
+given a verbal description of the
+relationship.
+S-ID.B.6a: Fit a function to the data;
+use functions fitted to data to solve
+problems in the context of the data.
+
+Khan Academy - Permutations
+Formula
+Khan Academy - Combinations
+Formula
+12.7: Probability of Compound Events
+Khan Academy - Probability of
+Compound Events
+
+Algebra I
+
+42
+
+Resources:
+
+Instructional Adjustments:
+
+Essential Materials, Supplemental Materials, Links to Best Practices
+
+Modifications, Student Difficulties, Possible Misunderstandings
+
+Algebra 1 Textbook Login
+http://www.socrative.com/
+www.kahoot.it
+www.shodor.org
+www.Insidemathematics.org
+www.xyzsolve.com
+www.ck12.org
+www.mathjong.com
+Pear Deck
+Socrative
+Edpuzzle
+Quizizz
+Nearpod
+
+Modifications/Student difficulties/Common errors
+
+Resources from textbook:
+● Lesson Presentations
+● Lesson Videos
+● Explore Activities
+● Online Practices
+● Exit Cards
+● Tiered Practices
+● Performance Tasks
+● Unit Reviews
+● Assessments
+
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+
+Emphasize note taking strategies
+Use guided notes when necessary
+Revisit and study notebook
+Create vocabulary notecards
+Use tools/manipulatives/models
+Reword application problems
+Use handouts/graphic organizers
+Review peer work and provide feedback
+Complete error analysis process.
+Create a study guide for intervention
+Build a glossary notebook
+
+

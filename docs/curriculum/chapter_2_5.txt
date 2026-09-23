@@ -1,0 +1,185 @@
+September 18, 2026
+Do Now
+1. Put your maze in the bin
+2. Take out your 2.4 Practice
+
+Agenda
+- Mini-quiz
+- 2.5 Notes (solving)
+- Practice
+
+What you need
+- Pencil
+- Notebook
+
+2.3-2.4 Mini-Quiz
+When you are ﬁnished:
+1. Hand in your quiz
+2. Take todays notes
+3. Go on google classroom and
+complete the notes
+4. Show me your completed
+notes
+5. 2.5 Skills Practice WS
+
+2.5 Absolute Value Equations
+
+SWBAT solve absolute value equations
+by solving 2 cases
+
+What is absolute value?
+The absolute value of a number represents its distance from zero on the number line.
+
+What are the possible values for
+
+5 and -5
+
+Steps for solving an absolute value equation
+1. Isolate the absolute value on the left side
+2. Drop the absolute value bars and create two cases, one
+positive and one negative.
+3. Solve both cases.
+4. Write your solution set.
+5. Graph your solution if required.
+
+Steps:
+1.
+
+Isolate the absolute value on
+the left side.
+
+2.
+
+Drop the absolute value bars
+and create two cases, one
+positive and one negative.
+
+|f + 2| = 4
+Case 1
+
+Case 2
+
+f+2=4
+-2 -2
+f =2
+
+f + 2 = -4
+-2 -2
+f = -6
+
+3.
+
+Solve both cases.
+
+4.
+
+Write your solution set.
+
+5.
+
+Graph your solution if required.braces listed least to
+
+Solution set is written in
+greatest
+
+{-6, 2}
+
+Steps:
+1.
+
+2.
+
+|x + 4 | + 3 = 17
+-3
+
+Isolate the absolute value on
+the left side.
+Drop the absolute value bars
+and create two cases, one
+positive and one negative.
+
+3.
+
+Solve both cases.
+
+4.
+
+Graph your solution if required.
+
+-3
+
+|x + 4 | = 14
+Case 1
+
+Case 2
+
+x + 4 = 14
+- 4 -4
+x = 10
+
+x + 4 = -14
+- 4 -4
+x = -18
+{-18, 10}
+
+3 | 4w - 1 0 | - 5 = 10
+
+Steps:
+1.
+
+Isolate the absolute value on
+the left side.
+
+2.
+
+Drop the absolute value bars
+and create two cases, one
+positive and one negative.
+
+3.
+
+Solve both cases.
+
+4.
+
+Graph your solution if required.
+
+{5/4, 15/4}
+
++5
++5
+3|4w - 10 | = 15
+3
+3
+|4w - 10 | = 5
+
+Case 1
+4w - 10 = 5
++10 +10
+4w = 15
+4
+
+4
+
+x = 15/4
+
+Case 2
+4w - 10 = -5
++10 +10
+4w = 5
+4
+4
+x = 5/4
+
+| x - 1 | = -3
+What do you notice about this equation?
+Distance is never negative for absolute value.
+
+This equation means the distance between x and 1 is -3.
+Since distance cannot be negative, the solution is the empty set ∅.
+No Solution!
+
+Video Help
+Skills Practice
+
+
